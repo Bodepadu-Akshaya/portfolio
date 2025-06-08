@@ -4,4 +4,4 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 
 🔗 Live Demo
 
-👉 [View Portfolio]([https://bodepadu-akshaya.github.io/your-repo-name/](https://bodepadu-akshaya.github.io/portfolio/))
+👉 View Portfolio-https://bodepadu-akshaya.github.io/portfolio/
